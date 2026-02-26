@@ -9,6 +9,7 @@ bool hasUniqueDigits(int year) {
         digits.insert(c);
     return digits.size() == 4;
 }
+print("Hello");
  
 int main() {
     int y;
